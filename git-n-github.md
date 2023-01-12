@@ -55,6 +55,6 @@ To apply the commits from the remote on the local, a good method could be.
 
 <pre>git rebase upstream/develop</pre>
 
-Or, merge the commits on top of the local with
+Or, merge the commits on top of the local with (prefer this method than the above until you learn git in depth)
 
 <pre>git merge upstream/develop</pre>
