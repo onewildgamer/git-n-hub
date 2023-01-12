@@ -27,11 +27,13 @@ If you want to push the changes to the remote git server that you're working wit
 
 `git push`
 
+# github
+
 github is basically a git server. It enables people to collaborate by sharing git repositories across the internet.
 
 Once you sign up with github, it let's you create a git repository and push files it or create it with some files initially and manage it from local.
 
-# connecting to a github
+## connecting to a github
 
 `git remote add `*`<remote name> <remote git location>`
 
